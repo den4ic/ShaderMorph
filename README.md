@@ -20,3 +20,6 @@ An example of smooth morphing animation between geometric shapes using Signed Di
 - Smooth transitions between geometric shapes
 - Real-time rendering with GLSL
 - Integration with Jetpack Compose for UI presentation
+- Choose both inner and outer colors for shapes
+- Easily switch to a grayscale palette for focused visualization
+- Select from a variety of pre-defined shapes for your morphing animations
