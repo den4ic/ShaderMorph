@@ -5,7 +5,7 @@ An example of smooth morphing animation between geometric shapes using Signed Di
 ## Preview
 
 ### Morphing Animation
-![Morphing Animation](https://github.com/den4ic/ShaderMorph/blob/main/media/example_morph.gif)
+<img src="https://github.com/den4ic/ShaderMorph/blob/main/media/example_morph.gif" width="300" alt="Morphing Animation">
 
 ### Application Screenshot
 <table>
