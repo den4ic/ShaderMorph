@@ -15,12 +15,6 @@ import kotlinx.coroutines.launch
 import com.example.shadermorph.utils.Result
 import javax.inject.Inject
 
-// TODO
-//  Сделать рефакторинг по архитектуре
-//  Убрать все библиотеки лишние и импорты из проекта
-//  Сделать скрины и залить на гитхаб оупенсурс с ридми
-//  Выкатить статью по шейдерам хабр медиум реддит и еще был сайт 3 (signed distance field - поле расстояний со знаком) (Тема - Морфинг еффект через SDF (signed distance field) с использволанием шейдеров в Android)
-
 @HiltViewModel
 class MainViewModel @Inject constructor(
     private val application: Application,
